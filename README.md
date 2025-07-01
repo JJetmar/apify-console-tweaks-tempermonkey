@@ -4,6 +4,7 @@ Tempermonkey extension that tweaks some [Apify Console](https://console.apify.co
 ## Tweaks:
 * Removes gap in left navigation.
 * Fixes vertical align of text in code blocks.
+* Proper Admin titles
 
 ## Installation
 
